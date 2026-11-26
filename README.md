@@ -2,6 +2,8 @@
 
 I build hands-on AI engineering projects: search and retrieval, answers grounded in evidence, and honest evaluation of what a model gets right and wrong. I'm **open to work** in AI engineering, machine learning and data science.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adharsha%20Velen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adharsha-velen-kalyana-sundaram)
+
 ## Featured work
 
 | Project | What it shows |
