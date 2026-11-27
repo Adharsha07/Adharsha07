@@ -22,7 +22,7 @@ I build hands-on AI engineering projects: search and retrieval, answers grounded
 
 ## Tools I use
 
-**Languages:** Python, SQL, JavaScript
-**AI and ML:** retrieval and RAG, LLM evaluation, local models (Qwen), scikit-learn, statsmodels, arch
-**Data:** pandas, NumPy, Matplotlib, Jupyter, MySQL, SQLite
-**Delivery:** Docker, GitHub Actions, GitHub Pages
+- **Languages:** Python, SQL, JavaScript
+- **AI and ML:** retrieval and RAG, LLM evaluation, local models (Qwen), scikit-learn, statsmodels, arch
+- **Data:** pandas, NumPy, Matplotlib, Jupyter, MySQL, SQLite
+- **Delivery:** Docker, GitHub Actions, GitHub Pages
