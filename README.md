@@ -2,12 +2,15 @@
 
 I build hands-on AI engineering projects: search and retrieval, answers grounded in evidence, and honest evaluation of what a model gets right and wrong. I'm **open to work** in AI engineering, machine learning and data science.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adharsha%20Velen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adharsha-velen-kalyana-sundaram)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adharsha07.github.io-050a18?logo=googlechrome&logoColor=46e3ff)](https://adharsha07.github.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adharsha%20Velen-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adharsha-velen-kalyana-sundaram)
+
+**Portfolio:** [adharsha07.github.io](https://adharsha07.github.io/), an interactive tour of my AI engineering work and the projects below.
 
 ## AI engineering projects
 
 | Project | What it shows |
 | --- | --- |
+| [HealthIntel AI](https://github.com/Adharsha07/healthintel-ai-agentic-operations) | Local-first hospital-operations decision support on synthetic data: a LangGraph workflow with policy retrieval and citation checks, a seven-day capacity outlook, and human approval with an audit history. FastAPI, React, SQLite, Docker Compose, CI |
 | [Customer support AI](https://github.com/Adharsha07/customer-support-ai) | End-to-end support assistant for a fictional store: version-aware policy retrieval with citations, customer accounts, order lookup and tickets, evaluated on held-out cases. Python API, SQLite, Docker, optional local Qwen model |
 | [Sentinel fraud intelligence](https://github.com/Adharsha07/sentinel-fraud-intelligence) · [live demo](https://adharsha07.github.io/sentinel-fraud-intelligence/) | Investigator workbench over 2,165 synthetic card transactions: explainable risk signals, policy evidence retrieval and cited investigation drafts, with CI-run tests |
 | [Evidence shopping assistant](https://github.com/Adharsha07/evidence-shopping-assistant) · [live demo](https://adharsha07.github.io/evidence-shopping-assistant/) | Assistant that answers only from evidence: exact product identity, source attribution, conflicting reviews and honest "no evidence" answers |
